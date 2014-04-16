@@ -1,4 +1,4 @@
-# hawtio configuration
+# hawtio configuration - ming branch 
 
 Welcome to the configuration repository for the hawtio project!
 
